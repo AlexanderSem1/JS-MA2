@@ -1,10 +1,17 @@
 //MODULE ASSIGNMENT 2 - LEVEL 1
+ 
 
 1. What is a function literal?
 
+An expression to define an unnamed function.
+
 2. What is the constructor?
 
+A constructor is a way to create a blueprint for an object with corresponding properties where we will be reusing it to create as many new objects as needed with the same type/properties.
+
 3. What does the return statement do?
+
+Return statement will stop code execution and return the requested value to the caller. 
 
 4. What will be written to the console from this function:
 		function myFunction(){
@@ -13,5 +20,8 @@
 		}
 		myFunction();
 
+It will return Inside my function as it will stop reading. 
 
 5. Briefly describe scope in JavaScript.
+
+A scope it same as the code that we write in JavaScript by defining variables and functions.  
